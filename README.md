@@ -25,8 +25,8 @@
 
 命令：
 ```bash
-wget https://raw.githubusercontent.com/iczyaer/Supervisor-for-Alpine-Linux/main/supervisor_install.sh
-wget https://raw.githubusercontent.com/iczyaer/Supervisor-for-Alpine-Linux/main/test_script.sh
+wget https://raw.githubusercontent.com/xinguddos/Supervisor-Alpine-Linux-/main/supervisor_install.sh
+wget https://raw.githubusercontent.com/xinguddos/Supervisor-Alpine-Linux-/main/test_script.sh
 chmod +x supervisor_install.sh test_script.sh
 ```
 
